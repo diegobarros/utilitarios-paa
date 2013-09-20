@@ -1,5 +1,6 @@
 import java.io.*;
 
+
 /**
  * @author Diego Augusto de Faria Barros
  * Classe Principal
@@ -11,9 +12,7 @@ public class Program {
 	
 	
 	static void Inicializa() {
-		
-		
-		
+
 	} // Fim do método Inicializa
 	
 	
@@ -111,11 +110,12 @@ public class Program {
  *         Programa de Pós-Graduação em Ciência da Computação           *
  *                Mestrado em Ciência da Computação                     *
  *                                                                      *								
- *  Trabalho: 															*                                                                      
+ *  Trabalho:															* 
+ *  																	*                                                                      
  * 	Disciplina: Projeto e Análise de Algoritmos                         *
  * Professores: Luiz Chaimowicz, Wagner Meira, 							*
  * 				Gisele Pappa, Jussara Almeida                           *
- *    Trabalho:  														*
+ *    			  														*
  * 	      Nome: Diego Augusto de Faria Barros                           *
  *   																	*
  *                                                                      *
